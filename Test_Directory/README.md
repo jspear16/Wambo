@@ -1,4 +1,0 @@
-# HEADER
-
-## SUBHEADER
-Normal Text
